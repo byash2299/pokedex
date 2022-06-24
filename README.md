@@ -1,2 +1,2 @@
 # pokedex
-A fun little project
+Image Processing and converting jpeg file to png.
